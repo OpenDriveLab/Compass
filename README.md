@@ -228,4 +228,11 @@ This repository is licensed under the [Apache-2.0 license](LICENSE).
   primaryClass={cs.CV},
   url={https://arxiv.org/abs/2611.12087}
 }
+
+@inproceedings{zhang2026sparse,
+  title={Sparse Video Generation Propels Real-World Beyond-the-View Vision-Language Navigation},
+  author={Zhang, Hai and Liang, Siqi and Chen, Li and Li, Yuxian and Xu, Yukuan and Zhong, Yichao and Zhang, Fu and Li, Hongyang},
+  booktitle={NeurIPS},
+  year={2026},
+}
 ```
