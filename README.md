@@ -42,10 +42,10 @@ We present **Compass 1**, the first embodied navigation foundation model to unif
 
 ## 🔥 Highlights
 
-- **Keyframe-Level Unified Backbone & History Representation Map:** To our knowledge, we present the first keyframe-level foundation model built on a unified backbone for embodied navigation. By condensing keyframes and actions into a compact HRM, our method grants the agent persistent spatiotemporal reasoning and nearly two-minute memory backtracking capabilities with zero architectural modification.
-- **Structured VQA Supervision Protocol:** We design three structured VQA categories to fully utilize the history reasoning capability and effectively resolve physical execution failure modes including premature stopping, reversed turning, direction drifting, left-right turning deadlocks, and spurious history utilization.
-- **Cost-Effective Data Annotation Pipeline:** We establish a semi-automated annotation pipeline requiring human oversight solely at stage boundaries and trajectory noise filtering, enabling the release of a massive navigation corpus featuring over 500 hours of real-world interactions and over 2,000 hours of annotated web videos.
-- **Thorough Physical Evaluation & Zero-Shot Cross-Embodiment Generalization:** Extensive real-world experiments demonstrate that Compass 1 drastically outperforms strong baselines across all physical navigation tasks. Remarkably, despite being trained mainly on a fixed camera height distribution, it generalizes zero-shot across diverse embodiments, and substantial camera height variations.
+- **Keyframe-Level Unified Backbone & History Representation Map:** To our knowledge, we present the first keyframe-level foundation model built on a unified backbone for embodied navigation.
+- **Structured VQA Supervision Protocol:** Three structured VQA categories are designed to fully utilize the history reasoning capability and resolve physical execution failure modes.
+- **Cost-Effective Data Annotation Pipeline:** A massive navigation corpus featuring over 500 hours of real-world interactions and over 2,000 hours of annotated web videos.
+- **Thorough Physical Evaluation & Zero-Shot Cross-Embodiment Generalization:** Compass 1 drastically outperforms strong baselines across all physical navigation tasks.
 
 <p align="center">
   <img src="asset/architecture.png" alt="Overview of the history representation map and the architecture of Compass 1" width="100%">
