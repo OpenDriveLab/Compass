@@ -36,7 +36,6 @@ We present **Compass 1**, the first embodied navigation foundation model to unif
 - 📖 [Introduction](#-introduction)
 - 📢 [News](#-news)
 - 🔥 [Highlights](#-highlights)
-- 📊 [Results](#-results)
 - 📝 [TODO List](#-todo-list)
 - 📬 [Contact](#-contact)
 - 📄 [License and Citation](#-license-and-citation)
