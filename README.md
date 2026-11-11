@@ -4,44 +4,6 @@
 
 <h1 align="center"><strong>Compass 1: Towards Open-World and Persistent Embodied Navigation from Monocular RGB Videos</strong></h1>
 
-<p align="center">
-  <a href="https://betray12138.github.io/resume/" target="_blank">Hai Zhang</a><sup>1,*</sup>&emsp;
-  <a href="https://github.com/stdcat" target="_blank">Siqi Liang</a><sup>1,*</sup>&emsp;
-  Yanjun Guo<sup>1</sup>&emsp;
-  Shoufeng Zhang<sup>1</sup>&emsp;
-  Yunhao Wang<sup>1</sup>&emsp;
-  <br>
-  Hangyu Du<sup>1</sup>&emsp;
-  Haoguang Mai<sup>1</sup>&emsp;
-  Hongchen Li<sup>2</sup>&emsp;
-  Jiazhi Yang<sup>3</sup>&emsp;
-  Jialong Zeng<sup>3</sup>&emsp;
-  <br>
-  Yu Hu<sup>4</sup>&emsp;
-  Chen Chen<sup>5</sup>&emsp;
-  Gangcheng Jiang<sup>3</sup>&emsp;
-  Zishun Zhuo<sup>1</sup>&emsp;
-  Lirui Zhao<sup>3</sup>&emsp;
-  <br>
-  Zhigang Li<sup>5</sup>&emsp;
-  Yu Qiao<sup>2</sup>&emsp;
-  <a href="https://scholar.google.com/citations?user=jVlRiUEAAAAJ&hl" target="_blank">Zhenjie Yang</a><sup>1,3,†</sup>&emsp;
-  <a href="https://mars.hku.hk/people.html" target="_blank">Fu Zhang</a><sup>1,4,†</sup>&emsp;
-  <a href="https://lihongyang.info/" target="_blank">Hongyang Li</a><sup>3</sup>
-  <br><br>
-  <a href="https://hku.hk/" target="_blank"><img src="asset/HKU_logo.png" alt="The University of Hong Kong" height="40"></a>
-  <br>
-  <sup>1</sup>The University of Hong Kong&emsp;
-  <sup>2</sup>Shanghai Innovation Institute&emsp;
-  <sup>3</sup>Archon Robotics
-  <br>
-  <sup>4</sup>Spatial Robotics&emsp;
-  <sup>5</sup>Huawei Inc.
-  <br><br>
-  <sup>*</sup>Equal contribution&emsp;
-  <sup>†</sup>Equal advising
-</p>
-
 <div id="top" align="center">
 
 <div>
@@ -60,7 +22,7 @@
 
 We present **Compass 1**, the first embodied navigation foundation model to unify language understanding and video generation while enabling memory backtracking through nearly **two minutes** of visual history. Compass 1 achieves a dominant overall success rate of **79.4%** across open-world evaluations, compared to **17.8%** for the strongest baseline.
 
-**Developers**: [Hai Zhang](https://zhanghenryhai12138.github.io/) and [Siqi Liang](https://github.com/stdcat)
+**Developers**: [Hai Zhang](https://betray12138.github.io/resume/) and [Siqi Liang](https://github.com/stdcat)
 
 ## 📢 News
 
